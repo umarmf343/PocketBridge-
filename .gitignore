@@ -1,0 +1,10 @@
+release/
+bin/
+obj/
+.vs/
+*.user
+*.log
+*.partial
+*.nupkg
+test-results.txt
+server-test*.txt
